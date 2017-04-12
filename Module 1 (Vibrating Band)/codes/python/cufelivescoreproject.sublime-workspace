@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"phy",
+				"physical"
+			],
+			[
+				"m",
+				"must"
+			],
+			[
+				"get",
+				"get_teamB"
+			],
+			[
+				"T",
+				"TeamB"
+			],
+			[
+				"te",
+				"teamB"
+			],
+			[
+				"pl",
+				"player_three"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"play",
+				"player_one"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"to",
+				"total_score"
+			],
+			[
+				"team",
+				"teamA"
+			],
+			[
+				"s",
+				"smsService"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"u",
+				"userForm"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"Book",
+				"BookSchema"
+			],
+			[
+				"a",
+				"anamousfunction"
+			],
+			[
+				"ar",
+				"args1"
+			],
+			[
+				"yo",
+				"YOUR_TWILIO_NUMBER"
+			],
+			[
+				"db",
+				"dbConnect"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"h",
+				"HttpResponseRedirect"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"n",
+				"new_user"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"v",
+				"voiceUP"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"form",
+				"text-transform"
+			],
+			[
+				"ori",
+				"border-right"
+			],
+			[
+				"or",
+				"orphans"
+			],
+			[
+				"vo",
+				"voiceUPFORM"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"sub",
+				"submitForm"
+			],
+			[
+				"ci",
+				"container"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"co",
+				"col-md-3"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"qu",
+				"queryset_list"
+			],
+			[
+				"M",
+				"MEDIA_ROOT"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"STA",
+				"STATIC_URL"
+			],
+			[
+				"stt",
+				"settings"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"pos",
+				"postModel"
+			],
+			[
+				"po",
+				"postModel"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"op",
+				"operand2"
+			],
+			[
+				"date",
+				"dateLent"
+			],
+			[
+				"pat",
+				"aPattern"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"kir",
+				"KirrURL"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"ki",
+				"KirrURL"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"kirr",
+				"kirr_redirect_view"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"cre",
+				"create_code"
+			],
+			[
+				"k",
+				"kargs"
+			],
+			[
+				"file",
+				"fileStatusList"
+			],
+			[
+				"li",
+				"listOption"
+			],
+			[
+				"dir",
+				"dirName"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"fie",
+				"fileName"
+			],
+			[
+				"cou",
+				"couses_offered"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ankit/Desktop/Srvup-2-e8f115dd0fe5c46591912a6adca3f4dc24ddeb7b/src/videos/models.py",
+		"/C/Users/ankit/Desktop/Srvup-2-e8f115dd0fe5c46591912a6adca3f4dc24ddeb7b/src/srvup/views.py",
+		"/C/Users/ankit/Desktop/Srvup-2-e8f115dd0fe5c46591912a6adca3f4dc24ddeb7b/src/videos/views.py",
+		"/C/Users/ankit/Desktop/Srvup-2-e8f115dd0fe5c46591912a6adca3f4dc24ddeb7b/src/templates/home.html",
+		"/D/Workspace/Projects/Stock Scrap Module/test.py",
+		"/C/Users/ankit/Desktop/Srvup-2-e8f115dd0fe5c46591912a6adca3f4dc24ddeb7b/src/srvup/urls.py",
+		"/D/Workspace/Projects/Weather Forecasting/script.py",
+		"/D/Workspace/Projects/Stock Scrap Module/module1.py",
+		"/C/Users/ankit/Desktop/Epoise/code/re.js",
+		"/C/Users/ankit/Desktop/cufesports/livescore/models.py",
+		"/C/Users/ankit/Desktop/cufesports/templates/index.html",
+		"/C/Users/ankit/Desktop/cufesports/livescore/views.py",
+		"/C/Users/ankit/Desktop/cufesports/livescore/admin.py",
+		"/C/Users/ankit/Desktop/cufesports/cufesports/settings.py",
+		"/C/Users/ankit/Desktop/cufesports/livescore/urls.py",
+		"/C/Users/ankit/Desktop/cufesports/cufesports/urls.py",
+		"/C/Users/ankit/Desktop/cufesports/livescore/migrations/__init__.py",
+		"/C/Users/ankit/Desktop/cufesports/db.sqlite3",
+		"/D/Workspace/Projects/IOT/Module 1 (Vibrating Band)/codes/python/send_sms.py",
+		"/D/Workspace/Projects/IOT/Module 1 (Vibrating Band)/codes/python/reading_data_from_board.py",
+		"/C/Users/ankit/Desktop/Workspace/Arduino With Python/reading_data_from_board.py",
+		"/C/Users/ankit/Desktop/Workspace/CodeTreasure/Django/userLoginSignup.py",
+		"/C/Users/ankit/Desktop/img.py",
+		"/C/Users/ankit/Desktop/Workspace/Mongoose/package.json",
+		"/C/Users/ankit/Desktop/Workspace/Mongoose/getting_started.js",
+		"/D/test.py",
+		"/C/Users/ankit/Desktop/Workspace/Mongoose/Book.model.js",
+		"/C/Users/ankit/Desktop/Workspace/Mongoose/app.js",
+		"/C/Users/ankit/Downloads/python-Stock-Data-master/python-Stock-Data-master/v1/__init__.py",
+		"/C/Users/ankit/Downloads/python-Stock-Data-master/python-Stock-Data-master/v1/stock_data_api.py",
+		"/C/Users/ankit/Downloads/python-Stock-Data-master/python-Stock-Data-master/settings.py",
+		"/C/Users/ankit/Downloads/python-Stock-Data-master/python-Stock-Data-master/main.py",
+		"/C/Users/ankit/Documents/beta.html",
+		"/C/Users/ankit/Desktop/AWS/MyInstance.pem.ppk",
+		"/C/Users/ankit/Desktop/Workspace/My Skills/django/practiseDjango/django-mike/Scripts/django_test/articles/models.py",
+		"/C/Users/ankit/Desktop/PractiisePython.py",
+		"/D/Workspace/Arduino With Python/reading_data_from_board.py",
+		"/D/Django Guides/Guides-master/all/Celery_Redis_with_Django.md",
+		"/D/Django Guides/Guides-master/all/angular_webserver.md",
+		"/D/Django Guides/Guides-master/all/common_url_regex.md",
+		"/D/Workspace/Arduino With Python/pulse.py",
+		"/D/Workspace/Arduino With Python/send_sms.py",
+		"/D/Workspace/Python database/table.py",
+		"/C/Users/ankit/Desktop/Workspace/Projects/Callobrative Filtering/Callobrative Filtering.py",
+		"/C/Users/ankit/Pictures/DSC00083.JPG",
+		"/C/Users/ankit/Desktop/peww.py",
+		"/C/Users/ankit/Documents/django-posts-master/runtests.py",
+		"/C/Users/ankit/Documents/django-posts-master/.travis.yml",
+		"/C/Users/ankit/Documents/django-posts-master/tests/settings.py",
+		"/C/Users/ankit/AppData/Roaming/BitTorrent/BitTorrent.exe",
+		"/C/Users/ankit/AppData/Local/Temp/Temp1_ankitdevel-django-login-logout-session-1f777af9ac29.zip/ankitdevel-django-login-logout-session-1f777af9ac29/bitbucket-pipelines.yml",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/stock predict/read_csv.py",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/test.py",
+		"/C/Users/ankit/Desktop/Workspace/IOT/Module 1 (Vibrating Band)/codes/python connectivity module/db_twillio_uno.py",
+		"/C/Users/ankit/Desktop/Workspace/IOT/Module 1 (Vibrating Band)/codes/python connectivity module/send_sms.py",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/CP-Twilio-Python-Text-App-master/send_sms.py",
+		"/C/Users/ankit/Desktop/CP-Twilio-Python-Text-App-master/credentials.py",
+		"/C/Users/ankit/Desktop/CP-Twilio-Python-Text-App-master/send_sms.py",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/Python Learning Goal/nested_list.md",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/Python Learning Goal/function_args.md",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/simpleloginout/settings.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/simpleloginout/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/loginlogout/views.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/loginlogout/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/templates/index.html",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/loginlogout/forms.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/templates/main.html",
+		"/C/Users/ankit/Desktop/Workspace/myApp/simpleloginout/templates/login.html",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/voiceup/forms.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/voiceup/views.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/webapp/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/webapp/settings.py",
+		"/C/Users/ankit/Desktop/Workspace/Project/Django/portfolio/posts/views.py",
+		"/C/Users/ankit/Desktop/noti.html",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/voiceup/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/voiceup/admin.py",
+		"/C/Users/ankit/Desktop/Workspace/myApp/webapp/voiceup/models.py",
+		"/C/Users/ankit/Desktop/Workspace/Python/fileObject.py",
+		"/C/Users/ankit/Desktop/Workspace/Python/object.JPG",
+		"/C/Users/ankit/Videos/HOW TO START A STARTUP_BUSINESS IN HINDI - ZERO TO ONE ANIMATED BOOK SUMMARY - YouTube.MP4",
+		"/C/Users/ankit/Desktop/Workspace/Code 2017/Python Learning Goal/function_args.py",
+		"/C/Users/ankit/Desktop/controlcollector/controlcollector/settings.py",
+		"/C/Users/ankit/Desktop/App/Stock/platforms/ios/cordova/node_modules/lodash-node/underscore/utilities/templateSettings.js",
+		"/C/Users/ankit/Desktop/App/Stock/platforms/android/assets/www/lib/framework7/js/framework7.js",
+		"/C/Users/ankit/Desktop/App/Stock/www/index.html",
+		"/C/Users/ankit/Desktop/App/Stock/hooks/README.md",
+		"/C/Users/ankit/Desktop/App/Stock/CHANGELOG.md",
+		"/C/Users/ankit/Desktop/App/Stock/README.md",
+		"/C/Users/ankit/Desktop/App/Stock/config.xml",
+		"/C/Users/ankit/Desktop/App/Stock/platforms/platforms.json",
+		"/C/Users/ankit/Desktop/controlcollector/controlcollector/urls.py",
+		"/C/Users/ankit/Desktop/App/Stock/platforms/ios/cordova/node_modules/lodash-node/underscore/utilities/template.js",
+		"/C/Users/ankit/Desktop/App/Stock/www/lib/MSOpenTech/winstore-jscompat.js",
+		"/C/Users/ankit/Desktop/controlcollector/controlcollector/dashboard.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/db.sqlite3",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/migrations/0001_initial.py",
+		"/C/Users/ankit/Desktop/practise/website/templates/post_create.html",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/models.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/portfolio/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/urls.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/views.py",
+		"/C/Users/ankit/Desktop/practise/website/post/forms.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/forms.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/templates/create.html",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/portfolio/settings.py",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/templates/home.html",
+		"/C/Users/ankit/Desktop/Workspace/portfolio/posts/admin.py",
+		"/C/Users/ankit/Desktop/practise/website/post/views.py",
+		"/C/Users/ankit/Desktop/My Webpage design/PortFolio/index.html",
+		"/C/Users/ankit/Desktop/Bootstrap/index.html",
+		"/C/Users/ankit/Desktop/practise/website/static_dir/admin/css/rtl.css",
+		"/C/Users/ankit/Desktop/practise/website/media_dir/admin/css/base.css",
+		"/C/Users/ankit/Desktop/practise/website/templates/post_home.html",
+		"/C/Users/ankit/Desktop/practise/website/website/settings.py",
+		"/C/Users/ankit/Desktop/django code snippet/static_code.py",
+		"/C/Users/ankit/Desktop/practise/website/website/urls.py",
+		"/C/Users/ankit/Desktop/practise/website/post/models.py",
+		"/C/Users/ankit/Desktop/test.html",
+		"/C/Users/ankit/Desktop/django code snippet/views_func.py",
+		"/C/Users/ankit/Desktop/django code snippet/pagination.py",
+		"/C/Users/ankit/Desktop/Stock/Stock/platforms/browser/www/presentational-only/presentational-only.css",
+		"/C/Users/ankit/Desktop/Stock/Stock/www/index.html",
+		"/C/Users/ankit/Desktop/Stock/www/index.html",
+		"/C/Users/ankit/Desktop/Stock/www/responsive-full-background-image.css",
+		"/C/Users/ankit/Desktop/stock/www/index.html",
+		"/C/Users/ankit/Desktop/App/index.html",
+		"/C/Users/ankit/Desktop/Stock/www/presentational-only/presentational-only.css",
+		"/C/Users/ankit/Desktop/Stock/platforms/browser/www/presentational-only/presentational-only.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maybe",
+			">\n",
+			"score",
+			"dta",
+			"right",
+			"t",
+			"w300",
+			"=\"#\"",
+			"voiceUPFORM",
+			">\n",
+			"         \n",
+			"\t\t<",
+			"6",
+			"MARKET",
+			"/\");</",
+			"img",
+			"ifra",
+			"sankalp",
+			"/static/img/som1.jpg",
+			"img",
+			")",
+			"\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "cufelivescoreproject.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
